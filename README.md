@@ -1,4 +1,4 @@
-# 学生成绩管理系统![](https://img.shields.io/badge/language-python-green.svg)  ![](https://img.shields.io/badge/language-cpp-green.svg)
+# 学生成绩管理系统 ![](https://img.shields.io/badge/language-cpp-green.svg)
 A console application wrote by cpp.
 :ever一个c++控制台应用
 实现录入、修改、删除（单条/批量）、查找、分页显示记录等功能
