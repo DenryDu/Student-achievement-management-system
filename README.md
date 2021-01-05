@@ -1,6 +1,7 @@
 # 学生成绩管理系统![](https://img.shields.io/badge/language-python-green.svg)  ![](https://img.shields.io/badge/language-cpp-green.svg)
 A console application wrote by cpp.
 一个c++控制台应用
+实现录入、修改、删除（单条/批量）、查找、分页显示记录等功能
 
 
 ## Table of Contents
@@ -23,7 +24,10 @@ Just **Download** and **Unzip** the repo!
 * [1] 创建一个user.txt,用以存放数据
 * [2] 编译运行grade_manage.cpp
 #### 运行截图
-![]()
+目录：
+![目录](https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/sams_menu.jpg)
+成绩记录：
+![记录](https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/sams_record.jpg)
 ## Related Efforts
 [VOC format and label tool](https://github.com/DenryDu/VOC-format-label)
 ## Maintainers
