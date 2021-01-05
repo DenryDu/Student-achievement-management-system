@@ -29,6 +29,9 @@ Just **Download** and **Unzip** the repo!
 ![目录](https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/sams_menu.jpg)
 成绩记录：
 ![记录](https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/sams_record.jpg)
+查找：
+![查找1](https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/sams_search1.jpg)
+![查找2](https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/sams_search2.jpg)
 ## Related Efforts
 [VOC format and label tool](https://github.com/DenryDu/VOC-format-label)
 ## Maintainers
