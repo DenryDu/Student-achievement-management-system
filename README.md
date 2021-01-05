@@ -1,6 +1,6 @@
 # 学生成绩管理系统![](https://img.shields.io/badge/language-python-green.svg)  ![](https://img.shields.io/badge/language-cpp-green.svg)
 A console application wrote by cpp.
-一个c++控制台应用
+:ever一个c++控制台应用
 实现录入、修改、删除（单条/批量）、查找、分页显示记录等功能
 
 
@@ -35,5 +35,5 @@ Just **Download** and **Unzip** the repo!
 ## Contributors
 ## License
 ***
-Support from you is my greatest encouragement! (您的支持是对我的最大鼓励！)       
+Support from you is my greatest encouragement! (您的支持是对我的最大鼓励！如果您觉得有用的话，千万不要吝啬一个:star哦！)       
 
